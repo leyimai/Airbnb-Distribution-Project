@@ -3,3 +3,6 @@ The data mining project aims to collect data and analyze relevant factors that i
 
 
 ![image](http://github.com/leyimai/Airbnb-Distribution-Project/raw/master/report_pic.jpg)
+
+
+## Project Goal
