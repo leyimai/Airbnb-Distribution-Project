@@ -2,7 +2,7 @@
 
 When Airbnb decides to expand to a new city, it is crucial to gain insights into the Airbnb Distribution Pattern to perfect budgeting and advertising strategies in that city. This data mining project aims to analyze relevant factors that impact airbnb’s spatial distribution and build prediction and classification models. We picked three representative cities on the East Coast, New York, Boston and Washington D.C., for our investigation.
 
-![image](http://github.com/leyimai/Airbnb-Distribution-Project/raw/master/report_pic.jpg)
+![image](https://github.com/leyimai/Airbnb-Distribution-Project/blob/master/report_pic.jpg)
 
 
 ## Project Summary
